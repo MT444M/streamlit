@@ -65,7 +65,7 @@ st.markdown(
 
 #st.video("demo.mp4")
 st.image("intro.png")
-st.write("Pour découvrir davantage, veuillez cliquer sur le lien ci-dessous pour regarder la vidéo d'introduction :"
+st.write("To find out more, click on the link below to watch the introductory video :"
         "\n https://drive.google.com/file/d/1EyMF5gtRijTV5jM1dZkHJBITl_uR4HwH/view?usp=drivesdk", unsafe_allow_html=True)
 #st.write('https://drive.google.com/file/d/1EyMF5gtRijTV5jM1dZkHJBITl_uR4HwH/view?usp=drivesdk', unsafe_allow_html=True)
 st.write("\n\n\n\n\n")
